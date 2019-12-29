@@ -1,10 +1,10 @@
-#Introduction
+# Introduction
 
 This is a jupyter notebook I created because most of the examples around machine learning are not documented in place. In my personal opinion those example are hard to follow. 
 
 You end up having a tutorial and python code in separate places. This example jupyter notebook on the otherhand has all all the code and its explanation in one place allowing the reader to run live examples.
 
-#Setting up the environment
+# Setting up the environment
 
 To setup the environment to run this notebook, follow the instructions below 
 
